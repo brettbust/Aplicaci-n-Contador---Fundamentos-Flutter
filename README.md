@@ -1,2 +1,2 @@
-# Aplicaci-n-Contador---Fundamentos-Flutter
-Incrementa - Disminuye - Resetea numero de taps.
+# Counter App - Flutter Fundamentals
+# Increase - Decrease - Reset the number of touches.
